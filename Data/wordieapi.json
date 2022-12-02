@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "threeword": [
+    {
+      "id": 1,
+      "word": "dog"
+    },
+    {
+      "id": 2,
+      "word": "pig"
+    },
+    {
+      "word": "don",
+      "id": 3
+    }
+  ]
+}
